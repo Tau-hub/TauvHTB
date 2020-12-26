@@ -2,7 +2,7 @@
 
 Hi, I'm a student currently learning and want to share my write-up to the community. 
 
-Any feedback is appreciated and I hope my write-up can help you.
+Any feedback is appreciated and I hope my writeups can help you.
 
 
 
