@@ -135,7 +135,7 @@ We can know get to the user ash in ssh.
 
 ![image-20201226114208147](img/image-20201226114208147.png)
 
-We know have our user.txt hash. 
+We now have our user.txt hash. 
 
 I will now add my ssh pub key to the authorized_keys file of ash.
 
