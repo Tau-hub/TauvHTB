@@ -1,6 +1,6 @@
 # Me
 
-Hi, I'm a student currently learning and want to share my write-up to the community. 
+Hi, I'm a student currently learning and want to share my writeups to the community. 
 
 Any feedback is appreciated and I hope my writeups can help you.
 
