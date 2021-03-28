@@ -14,7 +14,7 @@ https://www.hackthebox.eu/home/users/profile/296177
 
 # Table of Contents
 
-* [Enumeration](#enumeration)
+* [Reconnaissance](#Reconnaissance)
 * [Exploitation](#exploitation)
 * [Post-Exploitation](#post-exploitation)
   + [User](#user)
@@ -24,7 +24,7 @@ https://www.hackthebox.eu/home/users/profile/296177
 
 
 
-## Enumeration
+## Reconnaissance
 
 Let's start with nmap : 
 
@@ -99,7 +99,7 @@ Let's upgrade it, I found python on the machine so we can use :
 ![image-20201226112757221](img/image-20201226112757221.png)
 
 
-I found the file /var/www/html/files/16162020_backup.zip whch is password protected I decided to download it on my local machine 
+I found the file /var/www/html/files/16162020_backup.zip which is password protected I decided to download it on my local machine 
 
 ![image-20201226113149055](img/image-20201226113149055.png)
 
@@ -131,11 +131,11 @@ we get password :
 
 
 
-We can know get to the user ash in ssh.
+We can now get to the user ash in ssh.
 
 ![image-20201226114208147](img/image-20201226114208147.png)
 
-We now have our user.txt hash. 
+We know have our user.txt hash. 
 
 I will now add my ssh pub key to the authorized_keys file of ash.
 
@@ -145,7 +145,7 @@ I will now add my ssh pub key to the authorized_keys file of ash.
 
 Let's enumerate the machine thanks to LinPEAS.
 
-After enumeration, we can see we are part of the lxd group :
+After Reconnaissance, we can see we are part of the lxd group :
 
 ![image-20201226114721124](img/image-20201226114721124.png)
 

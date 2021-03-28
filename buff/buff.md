@@ -14,7 +14,7 @@ https://www.hackthebox.eu/home/users/profile/296177
 
 # Table of Contents
 
-* [Enumeration](#enumeration)
+* [Reconnaissance](#Reconnaissance)
 * [Exploitation](#exploitation)
 * [Post-Exploitation](#post-exploitation)
   + [User](#user)
@@ -26,7 +26,7 @@ https://www.hackthebox.eu/home/users/profile/296177
 
 
 
-## Enumeration
+## Reconnaissance
 
 
 

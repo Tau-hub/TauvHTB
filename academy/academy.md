@@ -14,7 +14,7 @@ https://www.hackthebox.eu/home/users/profile/296177
 
 # Table of contents
 
-* [Enumeration](#enumeration)
+* [Reconnaissance](#Reconnaissance)
 * [Exploitation](#exploitation)
 * [Post-Exploitation](#post-exploitation)
   + [User](#user)
@@ -23,7 +23,7 @@ https://www.hackthebox.eu/home/users/profile/296177
 
 # Contents 
 
-## Enumeration
+## Reconnaissance
 
 Let's start with nmap :
 

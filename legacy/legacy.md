@@ -14,13 +14,13 @@ https://www.hackthebox.eu/home/users/profile/296177
 
 # Table of contents
 
-* [Enumeration](#enumeration)
+* [Reconnaissance](#Reconnaissance)
 * [Exploitation](#exploitation)
   + [Root](#root)
 
 # Contents 
 
-## Enumeration
+## Reconnaissance
 
 Let's start with nmap :
 
